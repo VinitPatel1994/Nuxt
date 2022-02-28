@@ -1,1 +1,1 @@
-# Nuxt
+[Features Book - Data Fetching](https://nuxtjs.org/docs/2.x/features/data-fetching)
