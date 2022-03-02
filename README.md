@@ -1,1 +1,5 @@
-[Features Book - Data Fetching](https://nuxtjs.org/docs/2.x/features/data-fetching)
+To run code:
+npm run dev
+
+To build
+npm run build
